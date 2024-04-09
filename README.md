@@ -1,5 +1,7 @@
 # Digitalocean Docker container with NGINX
 
+[![CI](https://github.com/skorupcia/DigitalOcean_Docker_NGINX/actions/workflows/ci.yml/badge.svg)](https://github.com/skorupcia/DigitalOcean_Docker_NGINX/actions/workflows/ci.yml)
+
 macOS: 14.4.1
 
 Ubuntu: 20-04-x64
